@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn>=1.2
+scipy
+matplotlib
+ucimlrepo; python_version>="3.8"
+xgboost; python_version>="3.8"
+lightgbm; python_version>="3.8"

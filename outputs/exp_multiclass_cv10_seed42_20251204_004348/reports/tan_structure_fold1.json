@@ -1,0 +1,48 @@
+{
+  "root": 6,
+  "parent": [
+    10,
+    9,
+    8,
+    8,
+    1,
+    12,
+    null,
+    9,
+    6,
+    10,
+    8,
+    8,
+    11
+  ],
+  "order": [
+    6,
+    8,
+    2,
+    3,
+    10,
+    0,
+    9,
+    7,
+    1,
+    4,
+    11,
+    12,
+    5
+  ],
+  "feature_names": [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal"
+  ]
+}

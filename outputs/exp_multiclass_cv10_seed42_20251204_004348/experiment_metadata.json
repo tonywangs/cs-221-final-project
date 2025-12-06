@@ -1,0 +1,15 @@
+{
+  "experiment_settings": {
+    "task": "multiclass",
+    "cv_folds": 10,
+    "seed": 42,
+    "models": "random_forest,grad_boost,logreg_L2,svm_rbf,categorical_nb_discretized,tan_bayes",
+    "data_source": "ucimlrepo",
+    "local_path": null
+  },
+  "data_metadata": {
+    "source": "local"
+  },
+  "timestamp": "2025-12-04T00:43:48.103693",
+  "command": "python run_experiments.py --task multiclass --cv-folds 10 --seed 42 --data-source ucimlrepo --models random_forest,grad_boost,logreg_L2,svm_rbf,categorical_nb_discretized,tan_bayes"
+}

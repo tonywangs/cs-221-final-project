@@ -1,0 +1,44 @@
+# Original requirements
+numpy>=1.21.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+scipy>=1.9.0
+matplotlib>=3.5.0
+ucimlrepo; python_version>="3.8"
+
+# Advanced ML & Deep Learning
+torch>=2.0.0
+pytorch-tabnet>=4.1.0
+bayesian-optimization>=1.4.0
+optuna>=3.0.0
+hyperopt>=0.2.7
+
+# Advanced interpretability & visualization
+shap>=0.42.0
+lime>=0.2.0
+plotly>=5.15.0
+seaborn>=0.12.0
+
+# Bayesian & probabilistic programming
+pymc>=5.0.0
+arviz>=0.15.0
+tensorflow-probability>=0.20.0
+
+# Advanced feature engineering & selection
+featuretools>=1.20.0
+boruta>=0.3.0
+category_encoders>=2.6.0
+feature-engine>=1.6.0
+
+# Ensemble & AutoML
+auto-sklearn>=0.15.0
+h2o>=3.40.0
+
+# Fairness & robustness
+fairlearn>=0.8.0
+alibi>=0.9.0
+
+# Performance & utilities
+joblib>=1.3.0
+tqdm>=4.65.0
+wandb>=0.15.0
